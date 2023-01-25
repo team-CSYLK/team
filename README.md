@@ -4,7 +4,7 @@
 - <`insanegram`>
 
 팀
-- 항해99 11기 7주차 미니 프로젝트 2조
+- 항해99 11기 7주차 미니 프로젝트 2조 insanegram
 
 문서
 - github : https://github.com/orgs/team-CSYLK/repositories
