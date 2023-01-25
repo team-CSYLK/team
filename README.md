@@ -10,21 +10,37 @@
 - github : https://github.com/orgs/team-CSYLK/repositories
 - API  : https://docs.google.com/spreadsheets/d/1WTuBlRacWR-jsoc-vRGm_w5gw5oMiPqd3PyLtrZiX3Y/edit?usp=sharing
 - ERD : https://drawsql.app/teams/thursday/diagrams/99-w7-clonecoding-project
+- 와이어프레임 : https://www.figma.com/file/nu3FRLzpPTLRmGK5xs8T2C/Insanegram?node-id=0%3A1&t=XbvWIKXjKtx9brWh-0
 
 ## 와이어프레임
 
 로그인 화면
 - 소셜 로그인
-![Screen Shot 2023-01-25 at 2 04 28 PM](https://user-images.githubusercontent.com/87453411/214485224-afbf28da-c00e-417c-ad5c-8ab2b3f99964.jpg)
+![image](https://user-images.githubusercontent.com/120158932/214534726-9297029c-dd06-4e68-aea0-4b6502452b85.png)
 
 홈 화면
 - 게시글 조회
-![Screen Shot 2023-01-25 at 2 04 44 PM](https://user-images.githubusercontent.com/87453411/214485226-cd0f0302-cdb5-4574-9557-0a90804e0cf2.jpg)
+![image](https://user-images.githubusercontent.com/120158932/214534944-890f519d-14b6-4a6b-8dc4-c66fd1551d80.png)
+
+- 게시글 상세
+![image](https://user-images.githubusercontent.com/120158932/214535140-18004d43-b3ce-406e-bfc7-098a87770d96.png)
+
+프로필
+- 본인
+![image](https://user-images.githubusercontent.com/120158932/214535386-d58b830d-97d1-4af8-8d0a-dfa3a52cdedf.png)
+
+-타인
+![image](https://user-images.githubusercontent.com/120158932/214535540-2a2bdda4-d3fd-43a3-b662-4a8f79fd9f0c.png)
+
+-프로필 편집
+![image](https://user-images.githubusercontent.com/120158932/214535603-231d814a-294c-41b2-805d-e633df945e93.png)
+
 
 DM 페이지
-- socket.io
-![Screen Shot 2023-01-25 at 2 04 58 PM](https://user-images.githubusercontent.com/87453411/214485229-d165634e-8245-412c-99a0-9d385c1fab20.jpg)
+- 메세지 (socket.io)
+![image](https://user-images.githubusercontent.com/120158932/214535703-c9c785c2-1d60-4bfc-91ea-6c76b40c557d.png)
+
 
 게시글 작성 페이지
-![Screen Shot 2023-01-25 at 2 05 04 PM](https://user-images.githubusercontent.com/87453411/214485230-91656ef8-23b6-4009-ba3b-b745f1cf2137.jpg)
+![image](https://user-images.githubusercontent.com/120158932/214537666-bf5de7a1-d20f-4856-8b07-128da910f7e6.png)
 	
