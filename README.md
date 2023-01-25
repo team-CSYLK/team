@@ -1,7 +1,10 @@
 ## 프로젝트 명세서
 
 프로젝트 명
-- 항해99 11기 7주차 미니 프로젝트
+- <`insanegram`>
+
+팀
+- 항해99 11기 7주차 미니 프로젝트 2조
 
 문서
 - github : https://github.com/orgs/team-CSYLK/repositories
