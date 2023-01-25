@@ -15,7 +15,8 @@
 
 로그인 화면
 - 소셜 로그인
-![Screen Shot 2023-01-25 at 2 04 28 PM](https://user-images.githubusercontent.com/87453411/214485224-afbf28da-c00e-417c-ad5c-8ab2b3f99964.jpg)
+<!-- ![Screen Shot 2023-01-25 at 2 04 28 PM](https://user-images.githubusercontent.com/87453411/214485224-afbf28da-c00e-417c-ad5c-8ab2b3f99964.jpg) -->
+![image](https://user-images.githubusercontent.com/120103909/214534723-b6ce3d00-eca6-4b1f-920e-40570e93e68a.png)
 
 홈 화면
 - 게시글 조회
