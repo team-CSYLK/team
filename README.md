@@ -1,8 +1,8 @@
 # 프로젝트 명세서
 
-##개요
-프로젝트 명
-- <`insanegram`>
+## 프로젝트 `insanegram`
+
+프로젝트 타이틀 : insanegram
 
 팀
 - 항해99 11기 7주차 미니 프로젝트 2조 insanegram
