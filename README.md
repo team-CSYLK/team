@@ -17,6 +17,7 @@
 ### git stragegy - git flow
 - 양식 : [issue][닉네임][작업유형] 작업 설명
 - 예시 : [#5][Leo][fix]게시글 수정기능 수정
+- git flow 참고 자료 : https://techblog.woowahan.com/2553/
 
 ## 와이어프레임
 
