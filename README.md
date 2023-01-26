@@ -23,7 +23,7 @@
 
 로그인 화면
 - 소셜 로그인
-![image](https://user-images.githubusercontent.com/120158932/214534726-9297029c-dd06-4e68-aea0-4b6502452b85.png)
+- ![image](https://user-images.githubusercontent.com/120158932/214534726-9297029c-dd06-4e68-aea0-4b6502452b85.png)
 
 홈 화면
 - 게시글 조회
