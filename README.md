@@ -1,5 +1,6 @@
-## 프로젝트 명세서
+# 프로젝트 명세서
 
+##개요
 프로젝트 명
 - <`insanegram`>
 
@@ -12,10 +13,10 @@
 - ERD : https://drawsql.app/teams/thursday/diagrams/99-w7-clonecoding-project
 - 와이어프레임 : https://www.figma.com/file/nu3FRLzpPTLRmGK5xs8T2C/Insanegram?node-id=0%3A1&t=XbvWIKXjKtx9brWh-0
 
-## 규칙
+## 그라운드 룰
 ### git stragegy - git flow
-양식 : [닉네임][작업유형] 작업 설명
-예시 : [Leo][fix]게시글 수정기능 수정
+- 양식 : [닉네임][작업유형] 작업 설명
+- 예시 : [Leo][fix]게시글 수정기능 수정
 
 ## 와이어프레임
 
