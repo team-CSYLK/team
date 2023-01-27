@@ -7,7 +7,7 @@
 
 문서
 - github : https://github.com/orgs/team-CSYLK/repositories
-- API  : https://docs.google.com/spreadsheets/d/1WTuBlRacWR-jsoc-vRGm_w5gw5oMiPqd3PyLtrZiX3Y/edit?usp=sharing
+- API  : https://docs.google.com/spreadsheets/d/1rrE9-8QeEqpbF8Klk7khSkzH3wmxrcfa2K53AArKNnU/edit?usp=sharing
 - ERD : https://drawsql.app/teams/thursday/diagrams/99-w7-clonecoding-project
 - 와이어프레임 : https://www.figma.com/file/nu3FRLzpPTLRmGK5xs8T2C/Insanegram?node-id=0%3A1&t=XbvWIKXjKtx9brWh-0
 
